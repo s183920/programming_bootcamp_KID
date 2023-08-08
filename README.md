@@ -9,11 +9,11 @@ In this course, you'll learn the basics of Python programming, including:
 - Setting up your Python environment
 - Variables and data types
 - Conditional statements and loops
-- Functions and modules
-- File handling
 - Basic data structures (lists, tuples, dictionaries)
-- Introduction to object-oriented programming (OOP)
+- Functions and modules
 - Introduction to popular libraries for AI and data science (e.g., NumPy, Pandas)
+- Introduction to object-oriented programming (OOP)
+
 
 By the end of the course, you should have a solid understanding of Python's syntax and be equipped to solve simple programming challenges.
 
@@ -25,9 +25,6 @@ Before starting this course, make sure you have:
 2. Python installed on your system (preferably Python 3.x). You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/).
 3. A code editor or IDE (Integrated Development Environment) of your choice. Recommended editors include Visual Studio Code, PyCharm, or Jupyter Notebook.
 
-## Repository Structure
-
-The repository is organized as follows:
 
 ## Wiki
 
