@@ -3,3 +3,7 @@ def hello_world():
     
 def hello(name):
     print("Hello " + name + "!")
+    
+def hello2():
+    name = input("Enter your name: ")
+    print("Hello " + name + "!")
